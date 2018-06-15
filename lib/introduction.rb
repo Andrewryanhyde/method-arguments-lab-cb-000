@@ -1,3 +1,3 @@
-def josh 
+def josh
   puts "Hi, my name is Josh."
 end
